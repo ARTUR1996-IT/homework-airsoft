@@ -133,7 +133,7 @@ body {
 /* Подвал */
 
 footer {
-    background-color: var(--bg-footer-colore);
+    background-color: #2F303A;
 }
 
 .web-foot-logo {
@@ -149,5 +149,5 @@ footer {
 }
 
 .foot-address {
-    color: white;
+    color: #2F303A;
 }
